@@ -1,0 +1,4 @@
+DEV_HOME=$HOME/dev
+DEV_GITHUB=$DEV_HOME/github.com
+DEV_ERICHNASCIMENTO=$DEV_GITHUB/erichnascimento
+
